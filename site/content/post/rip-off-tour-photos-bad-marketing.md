@@ -8,7 +8,7 @@ description: Is selling eye-wateringly priced photos really a good strategy for
 
 I've done various day-trips that for want of a better phrase I guess you could call "adventure experiences", most recently the [Shark Dive at Kelly Tarlton's (Auckland's aquarium)](http://www.kellytarltons.co.nz/explore/animal-adventures/shark-dive/) and the [Auckland Sky Tower walk](http://www.skywalk.co.nz/). These are small-group guided trips taking a few hours, doing something quasi-adventurous, aimed at backpackers and young(ish) people, and are generally quite a social experience. They're really common in NZ and Australia - the first time I remember encountering this sort of thing being the [Sydney bridge walk](http://www.bridgeclimb.com/) a few years ago, or maybe rafting trips around the same sort of time.
 
-### [![Kelly Tarlton's shark dive](img/kelly_tarltons_shark.jpg)](http://www.flickr.com/photos/therefromhere/7987314605/)
+### [![Kelly Tarlton's shark dive](/img/kelly_tarltons_shark.jpg)](http://www.flickr.com/photos/therefromhere/7987314605/)
 
 Now, don't get me wrong - I've really enjoyed all of these trips, but there's something that annoys me a bit about them.
 
@@ -20,7 +20,7 @@ I would guess that the proportion of people who buy the photos tends to be fairl
 
 ### A better plan?
 
-[![The Rock - Bay of Islands overnight cruise](img/bay_of_islands_the_rock_logo-300x300.jpg)](https://www.facebook.com/rocktheboatnz)Earlier this year we did a trip in the Bay of Islands called "[The Rock](https://www.facebook.com/rocktheboatnz)" - an over-night back-packer focussed boat trip from Pahia involving a bit of everything - fishing for Snapper, kayaking, night swimming, diving for (and eating) [sea urchins](http://en.wikipedia.org/wiki/Kina_(animal)). This was fantastic fun, one of the best of these sorts of things I've done, and definitely the highlight of our time in the Bay of Islands - don't miss it.
+[![The Rock - Bay of Islands overnight cruise](/img/bay_of_islands_the_rock_logo-300x300.jpg)](https://www.facebook.com/rocktheboatnz)Earlier this year we did a trip in the Bay of Islands called "[The Rock](https://www.facebook.com/rocktheboatnz)" - an over-night back-packer focussed boat trip from Pahia involving a bit of everything - fishing for Snapper, kayaking, night swimming, diving for (and eating) [sea urchins](http://en.wikipedia.org/wiki/Kina_(animal)). This was fantastic fun, one of the best of these sorts of things I've done, and definitely the highlight of our time in the Bay of Islands - don't miss it.
 
 What these guys do is, rather than try and sell you a photo package, is put the trip's photos up on their Facebook page - this is a nice approach, since you don't have the annoying sales pitch, and it generates good word of mouth for them, since the natural thing is to Like their page and say something nice about your trip - instant social marketing.
 
