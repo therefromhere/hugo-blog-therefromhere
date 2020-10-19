@@ -32,7 +32,7 @@ With a bit of stirring the bubbles cleared and I was able to pour in the rest of
 
 A bit more stirring and it looked like this:
 
-![](img/fizzy_coffee.jpg)
+![](/img/fizzy_coffee.jpg)
 
 [](http://2.bp.blogspot.com/-44mNUyM1kNU/Twi3JaCe2KI/AAAAAAAABD8/8c6VUaAOVLo/s1600/download.jpg)
 
